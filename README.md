@@ -11,5 +11,5 @@ If you follow through the code examples on the page you should arrive at the sam
 
 In fact the difference in code between this one and the [previous blog](https://andyboyle.io/2017/02/23/create-a-vm-image-with-apache-kafka-configured-using-vagrant-and-ansible/) is one file - _kafka-instance-template.json_ - which has around 25 lines. Not much.
 
-You will have to install (Packer)[https://www.packer.io/] for this to work.
+You will have to install [Packer](https://www.packer.io/) for this to work.
 
